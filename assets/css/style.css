@@ -28,7 +28,8 @@ div.card_grid {
 
 div.campos {
     width: 20vw;
-    height: 200px;
+    max-width: 260px;
+    height: 260px;
     background-color: #eeeeee;
     display: flex;
     align-items: center;
